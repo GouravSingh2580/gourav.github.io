@@ -12,7 +12,3 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/75600296-89eb-4640-9e7e-fa87fba7ce76/deploy-status)](https://gouravsingh.netlify.app/)
 
-
-## Acknowledgments 🎁
-
-thanks to [Tanay Pratap](https://github.com/tanaypratap).
